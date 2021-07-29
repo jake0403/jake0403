@@ -3,8 +3,6 @@
 <!--
 **jake0403/jake0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jake0403&show_icons=true&theme=great-gatsby&hide=issues) [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jake0403)](https://solved.ac/jake0403)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jake0403&show_icons=true&theme=great-gatsby&hide=issues) [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jake0403)](https://solved.ac/jake0403)
+
+
